@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou Mellanie Marques
 
-![Banner](https://link-para-seu-banner.com)
-
 ## Sobre Mim
 Sou uma desenvolvedora focada em **front-end**, apaixonada por criar interfaces bonitas e intuitivas.
 
@@ -18,11 +16,11 @@ Sou uma desenvolvedora focada em **front-end**, apaixonada por criar interfaces 
 ![Angular](https://img.shields.io/badge/-Angular-F7DF1E?style=flat&logo=angular&logoColor=black)
 
 ## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mellanie-Marques&show_icons=true&theme=radical)
 
 ## 💾 LInguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellanie-Marques&layout=compact&theme=radical)
 
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/mellanie-marques-a78b67223/)
+![LinkedIn](https://www.linkedin.com/in/mellanie-marques-a78b67223/)
