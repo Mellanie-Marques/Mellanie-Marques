@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou uma desenvolvedora focada em **front-end**, apaixonada por criar interfaces bonitas e intuitivas.
 
-- 🌱 Aprendendo: **Kotlin e Padrões de Projeto**
+- 🌱 Aprendendo: **UX Design**
 - 💬 Pergunte-me sobre: **JavaScript, Angular, HTML, CSS**
 - 📫 Contato: [mellaniemarques9@gmail.com](mellaniemarques9@gmail.com)
 - ⚡ Curiosidade: Gosto de café ☕
@@ -14,6 +14,8 @@ Sou uma desenvolvedora focada em **front-end**, apaixonada por criar interfaces 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-DD0031?style=flat&logo=angular&logoColor=white)
+
 
 
 ## 📈 Estatísticas
